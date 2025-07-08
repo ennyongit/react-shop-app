@@ -1,0 +1,23 @@
+{
+  "name": "react-shop-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ennyongit/react-shop-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ennyongit/react-shop-app/issues"
+  },
+  "homepage": "https://github.com/ennyongit/react-shop-app#readme",
+  "description": "",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
