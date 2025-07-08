@@ -10,7 +10,7 @@ import {
 const TopHeader = () => {
     return(
         <div className="bg-gray-800 text-white">
-          <nav className="" id="templatemo_nav_top flex">
+          <nav className="ml-8 mr-8" id="templatemo_nav_top flex">
             <div className="text-light w-full">
                 <div className="flex justify-between pt-2 pb-2 pl-3 pr-3">
                     <div className="flex gap-2">
